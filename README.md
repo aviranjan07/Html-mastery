@@ -105,8 +105,8 @@ Even 30 mins daily can make you a developer.
 
 ## 🔗 Connect With Me
 
-* YouTube: *(Add your channel link here)*
-* GitHub: *(your profile link)*
+* YouTube: *https://www.youtube.com/playlist?list=PLHGw3Fh_rr96fJTxhE8ev9ZUaTrMYzgWw*
+* GitHub: *https://github.com/aviranjan07/Html-mastery/tree/main*
 
 ---
 
@@ -134,20 +134,3 @@ By the end of this series, you will:
 
 ---
 
-## ⚡ Next Step (Important)
-
-Now do this:
-
-1. Paste this into `README.md`
-2. Add your **YouTube link**
-3. Add your **first notes file**
-
----
-
-If you want next level upgrade, I can:
-
-* Add **badges (cool GitHub UI look)**
-* Add **progress tracker**
-* Design **cover banner (like pro repos)**
-
-Just say: **“Make it premium++”** 🚀
