@@ -105,7 +105,7 @@ Even 30 mins daily can make you a developer.
 
 ## 🔗 Connect With Me
 
-* YouTube: *https://www.youtube.com/playlist?list=PLHGw3Fh_rr96fJTxhE8ev9ZUaTrMYzgWw*
+* YouTube: *https://www.youtube.com/@aviranjan076*
 * GitHub: *https://github.com/aviranjan07/Html-mastery/tree/main*
 
 ---
